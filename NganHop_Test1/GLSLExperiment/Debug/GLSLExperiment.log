@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(127,38): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(133,60): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(141,60): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(147,38): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(147,98): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(154,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(155,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(156,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(157,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(158,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(191,12): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Downloads\LPP\GLSLExperiment\example1.cpp(198,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> E:\Downloads\LPP\Debug\GLSLExperiment.exe
