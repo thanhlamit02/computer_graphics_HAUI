@@ -1,0 +1,79 @@
+﻿  main.cpp
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(204,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(204,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(204,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(209,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(209,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(209,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(209,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(214,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(289,56): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(317,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(317,50): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(321,30): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(321,49): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(329,30): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(341,26): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(354,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(354,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(358,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(362,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(362,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(372,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(372,58): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(375,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(375,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(379,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(379,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(383,37): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(383,75): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(387,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(387,74): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(396,37): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(396,58): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(400,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(400,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(404,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(404,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(408,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(408,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(412,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(412,53): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(424,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(424,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(438,37): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(438,61): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(451,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(451,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(455,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(455,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(459,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(459,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(463,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(466,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(466,58): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(469,30): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(469,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(472,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(472,59): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(475,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(475,52): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(488,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(488,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(499,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(508,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(511,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(514,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(517,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(520,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(523,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(553,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(554,47): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(555,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(556,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(559,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(560,47): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(561,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\OpenGL\main.cpp(562,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\TruckCar\Debug\OpenGL.exe
