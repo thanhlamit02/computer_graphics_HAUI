@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLSLExperiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Robot_Arm.cpp
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(6,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(11,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(14,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(15,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(24,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(29,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(30,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(42,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(56,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(58,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\GLSLExperiment\Robot_Arm.cpp(59,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> E:\Documents\Giao trinh hoc online\3rd year\Do hoa may tinh\Projects\BaiTHso5_1_project_RobotArmWithoutStack\Debug\GLSLExperiment_RobotArm.exe

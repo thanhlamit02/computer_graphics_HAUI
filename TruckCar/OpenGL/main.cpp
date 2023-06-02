@@ -308,7 +308,7 @@ float MoCuaXePhai = 0;
 /*Hàm tạo bánh xe sau gồm bánh xe trái, bánh xe phải và trục xe sau*/
 void BanhSau()
 {
-	vl = ColorToRGB(30, 20, 30);
+	vl = ColorToRGB(10, 12, 10); //Màu đen
 	kt = ColorToRGB(35, 30, 40);
 	pxg = ColorToRGB(40, 40, 50);
 	CreateMaterial(vl, kt, pxg, 1000);
@@ -322,7 +322,7 @@ void BanhSau()
 	CreateCylinder(symbol, matrixPhanCap);
 
 	//Trục bánh xe
-	vl = ColorToRGB(82, 135, 190);
+	vl = ColorToRGB(151, 88, 6); //Màu nâu
 	kt = ColorToRGB(75, 120, 180);
 	pxg = ColorToRGB(70, 110, 170);
 	CreateMaterial(vl, kt, pxg, 1000);
@@ -333,7 +333,7 @@ void BanhSau()
 /*Hàm tạo bánh trước*/
 void BanhTruoc()
 {
-	vl = ColorToRGB(30, 20, 30);
+	vl = ColorToRGB(10, 12, 10);
 	kt = ColorToRGB(35, 30, 40);
 	pxg = ColorToRGB(40, 40, 50);
 	CreateMaterial(vl, kt, pxg, 1000);
@@ -531,8 +531,8 @@ void DisplayModels(void)
 	matrixPhanCap = mat4();
 	truckOpenGL();
 
-	at = vec4(0, 0, 0, 0);
-	eye = vec4(-1, 1, 8, 0);
+	at = vec4(1, 0, 0, 1);
+	eye = vec4(0, 0, -10, 1);
 	view = LookAt(eye, at, up);
 	glUniformMatrix4fv(view_loc, 1, GL_TRUE, view);
 	projection = Frustum(-0.5, 0.5, -0.5, 0.5, 0.5, 50);
